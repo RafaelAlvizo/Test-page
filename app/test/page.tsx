@@ -83,10 +83,10 @@ export default function TestPage() {
                   <strong>Suggestion 2:</strong> This is a test for github collab
                 </p>
                 <p className="text-sm">
-                  <strong>Suggestion 3:</strong> Add new cards with different content
+                  <strong>Suggestion 3:</strong> More tests for github and collab
                 </p>
                 <p className="text-sm">
-                  <strong>Suggestion 4:</strong> Practice resolving merge conflicts
+                  <strong>Suggestion 4:</strong> My name is Rafael Alvizo
                 </p>
               </div>
             </CardContent>
