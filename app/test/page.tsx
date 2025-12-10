@@ -80,7 +80,7 @@ export default function TestPage() {
                   <strong>Suggestion 1:</strong> Each team member can add their name to this tab
                 </p>
                 <p className="text-sm">
-                  <strong>Suggestion 2:</strong> Try changing the colors or adding new tabs
+                  <strong>Suggestion 2:</strong> This is a test for github collab
                 </p>
                 <p className="text-sm">
                   <strong>Suggestion 3:</strong> Add new cards with different content
