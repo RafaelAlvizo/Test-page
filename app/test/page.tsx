@@ -77,7 +77,7 @@ export default function TestPage() {
               <p>Here are some things your team can try:</p>
               <div className="space-y-2">
                 <p className="text-sm">
-                  <strong>Suggestion 1:</strong> Each team member can add their name to this tab
+                  <strong>Suggestion 1:</strong> jasdalsjdlasdas
                 </p>
                 <p className="text-sm">
                   <strong>Suggestion 2:</strong> This is a test for github collab
