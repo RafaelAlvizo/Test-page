@@ -1,30 +1,52 @@
-# Simple test page
+# MonexusGitTraining
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rafaelalvizorol-gmailcoms-projects/v0-simple-test-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/mqbrI6nkugV)
+A GitHub collaboration training and testing workspace for team members.
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+This repository is designed for practicing Git workflows and GitHub collaboration with your team members.
+
+## Features
+
+- Simple test page with tabs for easy modification
+- Clean, readable code structure
+- Perfect for practicing branches, commits, pull requests, and merges
+
+## Getting Started
+
+To install dependencies, run:
+
+\`\`\`bash
+pnpm install
+# or
+npm install
+# or
+yarn install
+\`\`\`
+
+To start the development server:
+
+\`\`\`bash
+pnpm dev
+# or
+npm run dev
+# or
+yarn dev
+\`\`\`
+
+Open [http://localhost:3000/test](http://localhost:3000/test) to view the test page.
+
+## Collaboration Practice
+
+Use this repository to practice:
+
+1. Creating branches
+2. Making commits
+3. Opening pull requests
+4. Reviewing code changes
+5. Merging updates
+6. Resolving merge conflicts
 
 ## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/rafaelalvizorol-gmailcoms-projects/v0-simple-test-page](https://vercel.com/rafaelalvizorol-gmailcoms-projects/v0-simple-test-page)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/mqbrI6nkugV](https://v0.app/chat/mqbrI6nkugV)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Your project can be deployed on Vercel or any other Next.js hosting platform.
